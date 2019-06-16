@@ -81,6 +81,10 @@ a:link {
 	color: #B8473D;
 }
 
+a:visited {
+	color: #B8473D;
+}
+
 a {
 	font-weight: 500;
 }
