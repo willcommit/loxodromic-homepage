@@ -2251,7 +2251,7 @@ a {
 			border: solid 1px;
 			display: inline-block;
 			border-radius: 100%;
-			padding: 0.65em;
+			padding: 0;
 			margin: 0 0 2em 0;
 			cursor: default;
 		}
@@ -2262,8 +2262,6 @@ a {
 				width: 2.25em;
 				height: 2.25em;
 				line-height: 2.2em;
-				border-radius: 100%;
-				border: solid 1px;
 				text-align: center;
 			}
 
